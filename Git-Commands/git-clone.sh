@@ -18,3 +18,5 @@ git clone -b <branchname> --single-branch <remote-repo-url>
 # ------------------------------------------------------------------------------------------------------------------------------ #
 
 git clone --depth=1 <url>
+cd <Project-Name>
+git fetch --unshallow
