@@ -10,3 +10,6 @@ echo .DS_Store >> .gitignore
 
 git config --global user.name "Aniket Prashar"
 git config --global user.email aniketprashar@hotmail.com
+
+# Check username or any other key's value
+git config user.name
